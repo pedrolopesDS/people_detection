@@ -178,7 +178,7 @@ Exemplos do Resultado
 ## 📌 Observações
 
 - Não é possível executar no Google Colab
-- Certifique-se de que as URLs das câmeras estão acessíveis, pode acontecer de alguma câmera esteja fora do ar.
+- Verifique se as URLs das câmeras estão acessíveis, pois algumas câmeras podem estar fora do ar ou com problemas de conectividade.
 - O modelo YOLOv8n foi escolhido pela eficiência em dispositivos de baixa capacidade, caso você tenha disponível um hardware melhor, escolha um modelo mais robuto para ter mais precisão.
 
 ---

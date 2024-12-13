@@ -1,4 +1,4 @@
-# Detecção de Pessoas em Câmeras ao Vivo com YOLOv8
+# Detecção de Pessoas em Câmeras ao Vivo com YOLOv8 (Intermediário)
 
 O projeto permite realizar a detecção de pessoas em vídeos transmitidos ao vivo por meio de câmeras públicas da cidade de Ourinhos-SP, utilizando o modelo YOLOv8.
 
@@ -170,6 +170,9 @@ capture.release()
 cv.destroyAllWindows()
 ```
 
+Exemplos do Resultado
+![Resultado 1](Exemplo_1.png)
+![Resultado 2](Exemplo_2.png)
 ---
 
 ## 📌 Observações
